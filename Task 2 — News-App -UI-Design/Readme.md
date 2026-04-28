@@ -31,10 +31,5 @@ Figma
 
 ---
 
-## 🖼️ Screenshots
-(Add images inside `/screenshots` folder)
-
----
-
 ## 🔗 Live Link
-Figma Prototype: https://figma.com/your-link
+Figma Prototype: https://www.figma.com/proto/cHYwCqJXypC7ePAGj20Inm/UI-UX-LEARNING?node-id=113-560&t=DUzqWL8o1EBffZzK-1&scaling=min-zoom&content-scaling=fixed&page-id=81%3A18&starting-point-node-id=113%3A560
