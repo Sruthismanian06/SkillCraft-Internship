@@ -21,7 +21,7 @@ Designed a clean, readable interface focused on content hierarchy and engagement
 
 ### 3. Cart Flow Improvement (E-commerce)
 Redesigned cart and product detail flow to improve clarity and purchase experience.
-🔗 Figma Prototype: [View Design]( https://www.figma.com/proto/cHYwCqJXypC7ePAGj20Inm/UI-UX-LEARNING?node-id=101-7434&t=PZcLFilZYze7i7fW-1&scaling=min-zoom&content-scaling=fixed&page-id=81%3A18&starting-point-node-id=81%3A20)
+🔗 Figma Prototype: [View Design](https://www.figma.com/proto/cHYwCqJXypC7ePAGj20Inm/UI-UX-LEARNING?node-id=81-20&t=L54gKnQh05sgEjml-1&scaling=min-zoom&content-scaling=fixed&page-id=81%3A18&starting-point-node-id=81%3A20&show-proto-sidebar=1)
 
 
 ### 4. Fitness App User Journey
