@@ -13,7 +13,7 @@ Aspiring UI/UX Designer focused on creating user-centered, intuitive, and access
 
 ### 1. E-commerce App Redesign
 Improved usability and product discovery experience through UI redesign.
-🔗 Figma Prototype: [View Design](https://www.figma.com/file/xxxxx)
+🔗 Figma Prototype: [View Design](https://www.figma.com/proto/cHYwCqJXypC7ePAGj20Inm/UI-UX-LEARNING?node-id=113-1047&t=TcpwGFypHh7NVUXd-1&scaling=min-zoom&content-scaling=fixed&page-id=81%3A18&starting-point-node-id=113%3A1047&show-proto-sidebar=1)
 
 ### 2. News App UI Design
 Designed a clean, readable interface focused on content hierarchy and engagement.
